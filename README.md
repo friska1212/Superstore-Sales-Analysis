@@ -124,6 +124,3 @@ Batas aman diskon adalah maksimal 20% untuk tetap menjaga profit positif.
 
 ---
 
-**Author:** Junior Data Analyst
-**Dataset:** Superstore — Kaggle
-**Program:** PKL — Minggu 6, Reporting & Data Storytelling
